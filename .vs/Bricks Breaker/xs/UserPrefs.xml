@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{367A0E84-6241-8A07-4C68-D75F86BEBCE2}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/BrickScript.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Paddle.cs" Line="27" Column="1" />
+      <File FileName="Assets/Scripts/Ball.cs" Line="50" Column="42" />
+      <File FileName="Assets/Scripts/GameManager.cs" Line="37" Column="1" />
+      <File FileName="Assets/Scripts/BrickScript.cs" Line="10" Column="9" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Bricks Breaker" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="BrickScript.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="d8bbb6e2-7c6b-4165-ad8c-9f01ac3081a4" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
